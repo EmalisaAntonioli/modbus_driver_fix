@@ -17,7 +17,7 @@ Simple Windows utility to install the 3.5.2019.1 Modbus driver and disable autom
 
 1. Clone or download this repo:
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://github.com/EmalisaAntonioli/modbus_driver_fix.git
 
 2. Open the folder.
 
